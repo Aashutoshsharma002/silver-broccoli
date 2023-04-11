@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6402e29226ce4f2718a7f19f"
+  },
+  "postedBy": {
+    "$oid": "6402e0b5a6f210a9e2b9ce5d"
+  },
+  "postId": {
+    "$oid": "6402e26426ce4f2718a7f188"
+  },
+  "createdAt": {
+    "$date": "2023-03-04T06:17:54.842Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T06:17:54.842Z"
+  },
+  "__v": 0,
+  "name": "CPU-Processor\n",
+  "description": "Intel Core i5-12600K Desktop Processor 10 (6P+4E) Cores up to 4.9 GHz Unlocked  LGA1700 600 Series Chip-set 125W. Offers hyper-threading architecture that delivers high performance for demanding applications with improved onboard Intel UHD Graphics controller for great graphics and visual quality and turbo boost.",
+  "price": "5000",
+  "countInStock": "100",
+  "image": "/images/processor.jpg",
+  "brand": "Intel",
+  "category": "Electronics",
+  "rating": "4.5",
+  "numReviews": "4"
+},{
+  "_id": {
+    "$oid": "641f2797cc0ff4d675bdf2b5"
+  },
+  "postedBy": {
+    "$oid": "6402e0b5a6f210a9e2b9ce5d"
+  },
+  "postId": {
+    "$oid": "6402e26426ce4f2718a7f188"
+  },
+  "createdAt": {
+    "$date": "2023-03-04T06:17:54.842Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-04T06:17:54.842Z"
+  },
+  "__v": 0,
+  "name": "32 GB DDR5 Ram \n",
+  "description": "Intel Core i5-12600K Desktop Processor 10 (6P+4E) Cores up to 4.9 GHz Unlocked  LGA1700 600 Series Chip-set 125W. Offers hyper-threading architecture that delivers high performance for demanding applications with improved onboard Intel UHD Graphics controller for great graphics and visual quality and turbo boost.",
+  "price": "1500",
+  "countInStock": "100",
+  "image": "/images/ram.jpg",
+  "brand": "Intel",
+  "category": "Electronics",
+  "rating": "3",
+  "numReviews": "9"
+}]
